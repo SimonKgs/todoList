@@ -1,4 +1,4 @@
-# Webpack starter
+# TODOLIST
 
 Aplicación lista de tareas con JS y Webpack
 
