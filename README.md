@@ -1,6 +1,6 @@
 # Webpack starter
 
-Este es el esqueleto inicial para aplicaciones que utilicen webpack
+Aplicación lista de tareas con JS y Webpack
 
 
 ### Notas:
